@@ -1,0 +1,485 @@
+{
+  "meta": {},
+  "data": [
+    {
+      "returncode": 0,
+      "externalip": "37.65.37.4",
+      "allapplications": [],
+      "date": "2023-10-14",
+      "internalip": "37.65.37.4",
+      "time": "13:16:05",
+      "querytype": "A",
+      "policycategories": [],
+      "type": "dns",
+      "categories": [
+        {
+          "id": 32,
+          "type": "content",
+          "label": "Business Services",
+          "integration": false,
+          "deprecated": true
+        },
+        {
+          "id": 163,
+          "type": "content",
+          "label": "Business and Industry",
+          "integration": false,
+          "deprecated": false
+        }
+      ],
+      "verdict": "allowed",
+      "device": {
+        "id": null
+      },
+      "domain": "0.ntp.nvts.co",
+      "timestamp": 1697289365000,
+      "blockedapplications": [],
+      "allowedapplications": [],
+      "identities": [
+        {
+          "id": 608286546,
+          "type": {
+            "id": 1,
+            "type": "network",
+            "label": "Networks"
+          },
+          "label": "Montreuil_Network",
+          "deleted": false
+        }
+      ],
+      "threats": []
+    },
+    {
+      "returncode": 0,
+      "externalip": "37.65.37.4",
+      "allapplications": [],
+      "date": "2023-10-14",
+      "internalip": "37.65.37.4",
+      "time": "12:50:26",
+      "querytype": "A",
+      "policycategories": [],
+      "type": "dns",
+      "categories": [
+        {
+          "id": 32,
+          "type": "content",
+          "label": "Business Services",
+          "integration": false,
+          "deprecated": true
+        },
+        {
+          "id": 163,
+          "type": "content",
+          "label": "Business and Industry",
+          "integration": false,
+          "deprecated": false
+        }
+      ],
+      "verdict": "allowed",
+      "device": {
+        "id": null
+      },
+      "domain": "0.ntp.nvts.co",
+      "timestamp": 1697287826000,
+      "blockedapplications": [],
+      "allowedapplications": [],
+      "identities": [
+        {
+          "id": 608286546,
+          "type": {
+            "id": 1,
+            "type": "network",
+            "label": "Networks"
+          },
+          "label": "Montreuil_Network",
+          "deleted": false
+        }
+      ],
+      "threats": []
+    },
+    {
+      "returncode": 0,
+      "externalip": "37.65.37.4",
+      "allapplications": [],
+      "date": "2023-10-14",
+      "internalip": "37.65.37.4",
+      "time": "12:18:33",
+      "querytype": "A",
+      "policycategories": [],
+      "type": "dns",
+      "categories": [
+        {
+          "id": 32,
+          "type": "content",
+          "label": "Business Services",
+          "integration": false,
+          "deprecated": true
+        },
+        {
+          "id": 163,
+          "type": "content",
+          "label": "Business and Industry",
+          "integration": false,
+          "deprecated": false
+        }
+      ],
+      "verdict": "allowed",
+      "device": {
+        "id": null
+      },
+      "domain": "0.ntp.nvts.co",
+      "timestamp": 1697285913000,
+      "blockedapplications": [],
+      "allowedapplications": [],
+      "identities": [
+        {
+          "id": 608286546,
+          "type": {
+            "id": 1,
+            "type": "network",
+            "label": "Networks"
+          },
+          "label": "Montreuil_Network",
+          "deleted": false
+        }
+      ],
+      "threats": []
+    },
+    {
+      "returncode": 0,
+      "externalip": "37.65.37.4",
+      "allapplications": [],
+      "date": "2023-10-14",
+      "internalip": "37.65.37.4",
+      "time": "12:00:00",
+      "querytype": "A",
+      "policycategories": [],
+      "type": "dns",
+      "categories": [
+        {
+          "id": 32,
+          "type": "content",
+          "label": "Business Services",
+          "integration": false,
+          "deprecated": true
+        },
+        {
+          "id": 163,
+          "type": "content",
+          "label": "Business and Industry",
+          "integration": false,
+          "deprecated": false
+        }
+      ],
+      "verdict": "allowed",
+      "device": {
+        "id": null
+      },
+      "domain": "0.ntp.nvts.co",
+      "timestamp": 1697284800000,
+      "blockedapplications": [],
+      "allowedapplications": [],
+      "identities": [
+        {
+          "id": 608286546,
+          "type": {
+            "id": 1,
+            "type": "network",
+            "label": "Networks"
+          },
+          "label": "Montreuil_Network",
+          "deleted": false
+        }
+      ],
+      "threats": []
+    },
+    {
+      "returncode": 0,
+      "externalip": "37.65.37.4",
+      "allapplications": [],
+      "date": "2023-10-14",
+      "internalip": "37.65.37.4",
+      "time": "11:35:51",
+      "querytype": "A",
+      "policycategories": [],
+      "type": "dns",
+      "categories": [
+        {
+          "id": 32,
+          "type": "content",
+          "label": "Business Services",
+          "integration": false,
+          "deprecated": true
+        },
+        {
+          "id": 163,
+          "type": "content",
+          "label": "Business and Industry",
+          "integration": false,
+          "deprecated": false
+        }
+      ],
+      "verdict": "allowed",
+      "device": {
+        "id": null
+      },
+      "domain": "0.ntp.nvts.co",
+      "timestamp": 1697283351000,
+      "blockedapplications": [],
+      "allowedapplications": [],
+      "identities": [
+        {
+          "id": 608286546,
+          "type": {
+            "id": 1,
+            "type": "network",
+            "label": "Networks"
+          },
+          "label": "Montreuil_Network",
+          "deleted": false
+        }
+      ],
+      "threats": []
+    },
+    {
+      "returncode": 0,
+      "externalip": "37.65.37.4",
+      "allapplications": [],
+      "date": "2023-10-14",
+      "internalip": "37.65.37.4",
+      "time": "11:07:15",
+      "querytype": "A",
+      "policycategories": [],
+      "type": "dns",
+      "categories": [
+        {
+          "id": 32,
+          "type": "content",
+          "label": "Business Services",
+          "integration": false,
+          "deprecated": true
+        },
+        {
+          "id": 163,
+          "type": "content",
+          "label": "Business and Industry",
+          "integration": false,
+          "deprecated": false
+        }
+      ],
+      "verdict": "allowed",
+      "device": {
+        "id": null
+      },
+      "domain": "0.ntp.nvts.co",
+      "timestamp": 1697281635000,
+      "blockedapplications": [],
+      "allowedapplications": [],
+      "identities": [
+        {
+          "id": 608286546,
+          "type": {
+            "id": 1,
+            "type": "network",
+            "label": "Networks"
+          },
+          "label": "Montreuil_Network",
+          "deleted": false
+        }
+      ],
+      "threats": []
+    },
+    {
+      "returncode": 0,
+      "externalip": "37.65.37.4",
+      "allapplications": [],
+      "date": "2023-10-14",
+      "internalip": "37.65.37.4",
+      "time": "10:45:30",
+      "querytype": "A",
+      "policycategories": [],
+      "type": "dns",
+      "categories": [
+        {
+          "id": 32,
+          "type": "content",
+          "label": "Business Services",
+          "integration": false,
+          "deprecated": true
+        },
+        {
+          "id": 163,
+          "type": "content",
+          "label": "Business and Industry",
+          "integration": false,
+          "deprecated": false
+        }
+      ],
+      "verdict": "allowed",
+      "device": {
+        "id": null
+      },
+      "domain": "0.ntp.nvts.co",
+      "timestamp": 1697280330000,
+      "blockedapplications": [],
+      "allowedapplications": [],
+      "identities": [
+        {
+          "id": 608286546,
+          "type": {
+            "id": 1,
+            "type": "network",
+            "label": "Networks"
+          },
+          "label": "Montreuil_Network",
+          "deleted": false
+        }
+      ],
+      "threats": []
+    },
+    {
+      "returncode": 0,
+      "externalip": "37.65.37.4",
+      "allapplications": [],
+      "date": "2023-10-14",
+      "internalip": "37.65.37.4",
+      "time": "10:28:22",
+      "querytype": "A",
+      "policycategories": [],
+      "type": "dns",
+      "categories": [
+        {
+          "id": 32,
+          "type": "content",
+          "label": "Business Services",
+          "integration": false,
+          "deprecated": true
+        },
+        {
+          "id": 163,
+          "type": "content",
+          "label": "Business and Industry",
+          "integration": false,
+          "deprecated": false
+        }
+      ],
+      "verdict": "allowed",
+      "device": {
+        "id": null
+      },
+      "domain": "0.ntp.nvts.co",
+      "timestamp": 1697279302000,
+      "blockedapplications": [],
+      "allowedapplications": [],
+      "identities": [
+        {
+          "id": 608286546,
+          "type": {
+            "id": 1,
+            "type": "network",
+            "label": "Networks"
+          },
+          "label": "Montreuil_Network",
+          "deleted": false
+        }
+      ],
+      "threats": []
+    },
+    {
+      "returncode": 0,
+      "externalip": "37.65.37.4",
+      "allapplications": [],
+      "date": "2023-10-14",
+      "internalip": "37.65.37.4",
+      "time": "10:04:30",
+      "querytype": "A",
+      "policycategories": [],
+      "type": "dns",
+      "categories": [
+        {
+          "id": 32,
+          "type": "content",
+          "label": "Business Services",
+          "integration": false,
+          "deprecated": true
+        },
+        {
+          "id": 163,
+          "type": "content",
+          "label": "Business and Industry",
+          "integration": false,
+          "deprecated": false
+        }
+      ],
+      "verdict": "allowed",
+      "device": {
+        "id": null
+      },
+      "domain": "0.ntp.nvts.co",
+      "timestamp": 1697277870000,
+      "blockedapplications": [],
+      "allowedapplications": [],
+      "identities": [
+        {
+          "id": 608286546,
+          "type": {
+            "id": 1,
+            "type": "network",
+            "label": "Networks"
+          },
+          "label": "Montreuil_Network",
+          "deleted": false
+        }
+      ],
+      "threats": []
+    },
+    {
+      "returncode": 0,
+      "externalip": "37.65.37.4",
+      "allapplications": [],
+      "date": "2023-10-14",
+      "internalip": "37.65.37.4",
+      "time": "09:39:05",
+      "querytype": "A",
+      "policycategories": [],
+      "type": "dns",
+      "categories": [
+        {
+          "id": 32,
+          "type": "content",
+          "label": "Business Services",
+          "integration": false,
+          "deprecated": true
+        },
+        {
+          "id": 163,
+          "type": "content",
+          "label": "Business and Industry",
+          "integration": false,
+          "deprecated": false
+        }
+      ],
+      "verdict": "allowed",
+      "device": {
+        "id": null
+      },
+      "domain": "0.ntp.nvts.co",
+      "timestamp": 1697276345000,
+      "blockedapplications": [],
+      "allowedapplications": [],
+      "identities": [
+        {
+          "id": 608286546,
+          "type": {
+            "id": 1,
+            "type": "network",
+            "label": "Networks"
+          },
+          "label": "Montreuil_Network",
+          "deleted": false
+        }
+      ],
+      "threats": []
+    }
+  ]
+}
