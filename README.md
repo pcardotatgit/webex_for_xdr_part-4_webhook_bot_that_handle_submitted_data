@@ -82,7 +82,7 @@ First you should see a message from the bot into the room which confirm you your
 
 ## Where to go Next : Websocket Bot
 
-This next section is under construction
+[webex_for_xdr_part-5_websocket](https://github.com/pcardotatgit/webex_for_xdr_part-5_websocket)
 
 Go to the previous section
 
