@@ -1,6 +1,6 @@
-# XDR ALERT WEBEX BOT
+# XDR ALERT WEBEX BOT ( Part 2 )
 
-This project is the second part of the project []().
+This project is the second part of the project [webex_for_xdr_part-3_webhook_bot ](https://github.com/pcardotatgit/webex_for_xdr_part-3_webhook_bot).
 
 As we saw in this previous project, the webhook we created handle only messages sent into the Webex Bot room. It is not able to handle the choices we select into the Alert formular.
 
@@ -60,4 +60,31 @@ The objects vlaue are what help to understand how to parse submitted data depend
         sent_variables=result['inputs']['observables']
 
 Final operation is just to make the bot send a confirmation message with selected objects into it's room 
+
+## Install and run the script
+
+The installation is the same as the previous section. In this current repo the **webex_bot.py** is the only file that had been updated.
+
+That means that if you have done the installation for the previous section, then you can just replace the **webex_bot.py** script the one in this repo.
+
+And then run the script 
+
+    python webex_bot.py
+    
+## Test the bot
+
+Once the script runs, go to Webex and send the **alert_card** message to the bot room.
+
+You should see the alert formular appearing. Then you should be able to select objects either in the target list or in the observables list.
+Click on the submit button.
+
+First you should see a message from the bot into the room which confirm you your choices, and second you should see the details of operations into the bot console.  
+
+## Where to go Next : Websocket Bot
+
+This next section is under construction
+
+Go to the previous section
+
+[webex_for_xdr_part-3_webhook_bot ](https://github.com/pcardotatgit/webex_for_xdr_part-3_webhook_bot)
 
