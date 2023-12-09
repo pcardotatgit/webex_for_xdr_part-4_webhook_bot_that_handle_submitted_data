@@ -3,7 +3,8 @@
     Python webex bot for XDR alerts
     Manages Sent messages into the bot room
     Manages Selected Submitted Data into formulars
-    Manages ngrtok tunnel setup
+    Manages ngrok tunnel setup
+    Manages webex webhook creation and updates
 '''
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import urllib.request as urllib2
